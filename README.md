@@ -19,7 +19,7 @@ Entries may include:
 - **One small next step** – a concrete action for continued learning
 - **Git checkpoint** – tracking my commit and push progress
 - **Decisions or assumptions** – notes about choices made during exercises or projects
-- **Evidence from today** – links to code, SQL, screenshots, notebooks, or other work
+- **Evidence from today** – examples of the work, activities, or outputs that show what I practiced or completed during the session
 - **Reflection** – thoughts about what felt easy, difficult, or worth revisiting
 - **Mood or meme** – an optional lighter reflection on the day
 - **Highlight of the Day** – an optional bonus for sessions with something particularly memorable or meaningful
