@@ -6,20 +6,24 @@ It serves as a personal learning journal where I reflect on each session while p
 
 ---
 
-## About This Journal
+## Journal Entry Format
 
-Each class or study session has its own journal entry inside the `journal/` folder.
+For most entries, I use the extended journal template to document both the technical and reflective parts of each session.
 
-Rather than simply listing everything covered during class, each entry focuses on what stood out to me, what I understood, what challenged me, and what I want to work on next.
+Entries may include:
 
-Each journal entry includes:
-
-- **Highlight of the Day** – the concept, activity, realization, or experience that stood out to me the most
-- **What I Learned** – the main concepts and skills I gained from the session
-- **What Confused Me** – concepts I still need to understand better
-- **One Small Next Step** – something concrete I can do to continue learning
-- **Git Checkpoint** – a small reminder to commit and push my progress
-
+- **Today in one sentence** – a short summary of the session
+- **What I learned** – key concepts and skills from the day
+- **Terms I am still learning** – technical terms I want to understand better
+- **What confused me** – concepts or areas I still need to revisit
+- **One small next step** – a concrete action for continued learning
+- **Git checkpoint** – tracking my commit and push progress
+- **Decisions or assumptions** – notes about choices made during exercises or projects
+- **Evidence from today** – links to code, SQL, screenshots, notebooks, or other work
+- **Reflection** – thoughts about what felt easy, difficult, or worth revisiting
+- **Mood or meme** – an optional lighter reflection on the day
+- **Highlight of the Day** – an optional bonus for sessions with something particularly memorable or meaningful
+  
 The goal is not to write perfect notes, but to create a consistent record of how my understanding develops throughout the program.
 
 ---
